@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="fit_center">fit_center</string>
+    <string name="google_civic_n_information_api"><u>Google Civic\n Information API</u></string>
+    <string name="Position">%1$s%2$s%3$s</string>
+    <string name="address">Address:</string>
+</resources>
